@@ -20,6 +20,22 @@ main{
     text-align: center;
 }
 
+
+/*navbar*/
+.collapse{
+    display: flex;
+    justify-content: end;
+
+}
+.container-fluid a{
+    font-family: 'Strasua', sans-serif;
+}
+
+
+/*fin navbar*/
+
+
+
 h1{
     text-align: center;
     font-family: 'Strasua', sans-serif;
