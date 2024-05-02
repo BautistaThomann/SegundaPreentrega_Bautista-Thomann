@@ -29,6 +29,11 @@ main{
 }
 .container-fluid a{
     font-family: 'Strasua', sans-serif;
+    color: #F7FAE5;
+}
+
+.navbar{
+    background-color: #32322E;
 }
 
 
