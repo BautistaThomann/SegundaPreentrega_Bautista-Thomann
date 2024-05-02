@@ -419,3 +419,63 @@ input{
     background-color: rgb(248, 194, 124);
 }
 
+/* medias */
+
+@media( max-width:1000px){
+    .titulo-nosotros{
+        font-size: xx-large;
+        text-align: center;
+    }
+    .text-nos{
+        font-size: xx-large;
+        text-align: center;
+    }
+    .contacto2{
+        font-size: large;
+        text-align: center;
+        margin-left: 10px;
+        margin-right: 10px;
+    }
+    .contacto3{
+        font-size: small;
+        text-align: center;
+    }
+    .redes2{
+        font-size: xx-large;
+        text-align: center;
+    }
+}
+@media (max-width:650px){
+    .titulo-nosotros{
+        font-size: xx-large;
+        text-align: center;
+    }
+    .text-nos{
+        font-size: xx-large;
+        text-align: center;
+    }
+    .contacto2{
+        font-size: large;
+        text-align: center;
+        margin-left: 10px;
+        margin-right: 10px;
+    }
+    .contacto3{
+        font-size: small;
+        text-align: center;
+    }
+    .redes2{
+        font-size: xx-large;
+        text-align: center;
+    }
+}
+
+
+@media(max-width:1400px){
+    .productos{
+        justify-content: space-evenly;
+        
+    }
+}
+
+
